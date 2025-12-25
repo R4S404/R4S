@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Hugo.;I'm+a+fullstack+developper;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)]
 
 
-My name is Hugo and I am a fullstack developer. I come from France and live in Melun. 🏙️
+My name is R4S and I am a fullstack developer.
 
 Build websites and web applications, ensure security, deployment.
 
